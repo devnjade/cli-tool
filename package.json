@@ -1,0 +1,16 @@
+{
+  "name": "guessmynamecli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT",
+  "bin": "./index.js",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "chalk-animation": "^2.0.2",
+    "figlet": "^1.5.2",
+    "gradient-string": "^2.0.1",
+    "inquirer": "^9.1.0",
+    "nanospinner": "^1.1.0"
+  }
+}
